@@ -1,0 +1,144 @@
+1:"$Sreact.fragment"
+2:"/warm-hands-preview/_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+9:"/warm-hands-preview/_next/static/chunks/0ytncx5a8bnwj.js"
+a:I[2971,["$9"],"Header"]
+b:I[22016,["$9"],""]
+c:I[40244,["$9"],"CookieBanner"]
+14:"ViewportBoundary"
+15:I[97367,["$2"],"$14"]
+16:"MetadataBoundary"
+17:I[97367,["$2"],"$16"]
+18:"$Sreact.suspense"
+19:I[27201,["$2"],"IconMark"]
+:HL["/warm-hands-preview/_next/static/chunks/36yxbt52bitms.css","style"]
+6:X
+6:C
+7:X
+11:T25a2,<h2>1. Who is responsible for your data</h2>
+<p>1.1. Your personal data is controlled by Gor Hovhannisyan, trading as Warm Hands massage studio (&quot;we&quot;, &quot;us&quot;).</p>
+<p>1.2. Address: 6 Ordzhonikidze Street 1st Lane, Dilijan 3906, Tavush Province, Armenia. Email: <a href="mailto:hello@warm-hands.am">hello@warm-hands.am</a>. Phone, Telegram, WhatsApp: +374 93 581886.</p>
+<p>1.3. We process personal data under the Law of the Republic of Armenia on Protection of Personal Data (HO-49-N of 18 May 2015).</p>
+<h2>2. What data we collect</h2>
+<p>2.1. Data you give us:</p>
+<ul>
+<li>your name;</li>
+<li>your phone number;</li>
+<li>your email address, if you give one;</li>
+<li>your Telegram and Instagram usernames, if you give them;</li>
+<li>your date of birth, if you give it.</li>
+</ul>
+<p>2.2. Data created when you use our services:</p>
+<ul>
+<li>your visit history: which services, when, and any cancellations or changes;</li>
+<li>notes the therapist may write after a session. These can include how you were feeling and which areas were worked on. This is health information;</li>
+<li>records of your consent: which document and version you accepted, when, and from which IP address and browser.</li>
+</ul>
+<p>2.3. Technical data: the cookies described in section 10.</p>
+<p>2.4. We do not collect passport details, card details, or anything else we do not need to book and carry out your sessions.</p>
+<h2>3. Why we use your data and on what basis</h2>
+<p>3.1. We use your data to:</p>
+<ul>
+<li>book your sessions and manage the schedule;</li>
+<li>send reminders one day and one hour before a session;</li>
+<li>show your visit history in your account;</li>
+<li>take your wellbeing and past sessions into account during a massage;</li>
+<li>suggest services that may suit you;</li>
+<li>give you a birthday gift;</li>
+<li>send greetings and invitations, if you have agreed to them;</li>
+<li>prove that consent was given.</li>
+</ul>
+<p>3.2. Our legal bases are:</p>
+<ul>
+<li>the service contract formed when you book. On this basis we use the data needed to book, remind you and carry out the session;</li>
+<li>the consent you give by accepting the <a href="/warm-hands-preview/en/terms/">terms of service</a> when you book. It covers health information, recommendations, and transfers to service providers outside Armenia;</li>
+<li>your separate, optional consent to receive messages from the studio.</li>
+</ul>
+<p>3.3. Your consent lasts while you use the studio&#39;s services, or until you withdraw it. Section 9 explains how to withdraw it.</p>
+<h2>4. Health information</h2>
+<p>4.1. Health information is a special category of personal data. We only process it with your consent.</p>
+<p>4.2. This consent is part of the consent you give when booking. By giving it, you agree that the therapist may record notes about your wellbeing after a session.</p>
+<p>4.3. Notes are not made after every session and are optional. You can ask the therapist not to keep notes, or to delete them.</p>
+<p>4.4. Only the therapist can see the notes. They are not shown in your account and are not shared with anyone.</p>
+<p>4.5. Health information is never added to Google Calendar and is never sent to the AI service in a form that could identify you.</p>
+<h2>5. AI-assisted recommendations</h2>
+<p>5.1. Service recommendations in your account may be prepared by an AI service, the Claude API from Anthropic (USA).</p>
+<p>5.2. We send it only pseudonymised data: service codes, visit dates and short tags such as &quot;back&quot; or &quot;neck&quot;. We never send your name, phone number, email or the text of the therapist&#39;s notes. Your name is replaced with a random ID that Anthropic cannot link to you.</p>
+<p>5.3. A recommendation is only a suggestion. It does not affect your rights, prices or ability to book. You and the therapist decide what the session will be.</p>
+<h2>6. Who we share data with</h2>
+<p>6.1. We do not sell personal data or share it for other companies&#39; advertising.</p>
+<p>6.2. To run the website and bookings, we use the following providers. They process data on our behalf and only as far as needed for their service:</p>
+<ul>
+<li>Hetzner Online GmbH: hosting for the server, database and encrypted backups, in Germany or Finland;</li>
+<li>Google: Google Calendar for the schedule. A calendar event contains only the service name and your name. Your phone number and health information are not included;</li>
+<li>Telegram: messages, reminders and login codes sent through Telegram Gateway. Telegram receives your phone number and the message text;</li>
+<li>Resend: email delivery, if you have given an email address;</li>
+<li>Anthropic: recommendations based on pseudonymised data (section 5).</li>
+</ul>
+<p>6.3. We may disclose data to public authorities where Armenian law expressly requires it.</p>
+<h2>7. Transfers outside Armenia</h2>
+<p>7.1. The providers in section 6 are based outside Armenia: in Germany, Finland, other EU countries and the USA. Telegram processes data on servers in several countries.</p>
+<p>7.2. Armenia, Germany and Finland are all parties to the Council of Europe Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data. Our main data is stored on servers in these countries.</p>
+<p>7.3. Data goes to countries where protection may be lower than in Armenia, such as the USA, on the basis of your consent and only as far as needed for the purposes in section 3. We keep these transfers to a minimum: Google receives your name and the service name, Telegram and Resend receive your contact details and the message text, and Anthropic receives only pseudonymised data.</p>
+<h2>8. How long we keep data</h2>
+<p>8.1. We keep your account data and visit history while you use the studio&#39;s services and for 3 years after your last visit. After that, the data is deleted or anonymised.</p>
+<p>8.2. If you delete your account or withdraw consent, we delete or anonymise your data within 10 working days, unless the law requires us to keep it longer.</p>
+<p>8.3. We keep consent records for as long as we process your data and for 3 years afterwards, as proof that consent was given.</p>
+<p>8.4. Backups are kept for 14 days and then deleted automatically. Deleted data disappears from backups within that time.</p>
+<p>8.5. Messages sent through Telegram, WhatsApp and Instagram are also stored by those services under their own rules.</p>
+<h2>9. Your rights</h2>
+<p>9.1. You have the right to:</p>
+<ul>
+<li>know what data we hold about you, why, where we got it and who we share it with;</li>
+<li>get a copy of your data;</li>
+<li>correct data that is inaccurate or out of date;</li>
+<li>ask us to delete or block data that is incomplete, inaccurate, out of date, unlawfully obtained or no longer needed;</li>
+<li>withdraw your consent, either fully or only for studio messages;</li>
+<li>delete your account;</li>
+<li>complain about us to the Personal Data Protection Agency or go to court.</li>
+</ul>
+<p>9.2. You can do much of this yourself in your account: view your visit history, update your details, turn off studio messages and delete your account. When you delete your account, your contact details are erased and your visit history is anonymised. Consent records are kept for the period in clause 8.3.</p>
+<p>9.3. For anything else, write to <a href="mailto:hello@warm-hands.am">hello@warm-hands.am</a> or message +374 93 581886 on Telegram. We may ask you to confirm that the request comes from you.</p>
+<p>9.4. We reply to requests about your data within 5 days. We correct inaccurate data straight away, or within 3 working days if that is not possible. There is no charge.</p>
+<p>9.5. If you withdraw consent to the data we need for bookings, we will no longer be able to take your bookings online.</p>
+<h2>10. Cookies</h2>
+<p>10.1. The website uses only essential cookies:</p>
+<ul>
+<li>a session cookie, so you stay signed in to your account;</li>
+<li>a language cookie, so the site opens in the language you chose.</li>
+</ul>
+<p>10.2. We do not use analytics or advertising cookies. If that changes, we will update this policy and ask for your consent.</p>
+<p>10.3. On your first visit, the site shows a cookie notice.</p>
+<h2>11. How we protect your data</h2>
+<p>11.1. The website uses a secure connection (HTTPS). Only the therapist and the site administrator can access the database and the therapist&#39;s notes.</p>
+<p>11.2. Backups are encrypted.</p>
+<p>11.3. Each service provider receives only the data it needs to do its job.</p>
+<p>11.4. If a data breach occurs, we will publish a notice on the website and report it to the Police of the Republic of Armenia and the Personal Data Protection Agency, as the law requires.</p>
+<h2>12. Complaints</h2>
+<p>12.1. If you think we are not respecting your rights, please contact us first and we will try to put it right.</p>
+<p>12.2. You can also complain to the Personal Data Protection Agency of the Ministry of Justice of the Republic of Armenia (moj.am) or go to court.</p>
+<h2>13. Changes to this policy</h2>
+<p>13.1. We may update this policy. Each new version is published on the website with a new date and version number.</p>
+<p>13.2. If a change affects what data we collect, why, or who receives it, we will ask for your consent again the next time you book.</p>
+<h2>14. Contact</h2>
+<p>Gor Hovhannisyan, Warm Hands massage studio</p>
+<p>Address: 6 Ordzhonikidze Street 1st Lane, Dilijan 3906, Tavush Province, Armenia</p>
+<p>Email: <a href="mailto:hello@warm-hands.am">hello@warm-hands.am</a></p>
+<p>Phone, Telegram, WhatsApp: +374 93 581886</p>
+10:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","article",null,{"className":"container-site pt-16","children":[["$","h1",null,{"className":"h-display","children":"Privacy policy"}],["$","p",null,{"className":"mt-4 text-sm text-muted","children":"Version of 3 November 2026 (privacy-2026-11-03)"}],["$","div",null,{"className":"prose-site mt-10","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],null,"$L12"]}],"p":"$@13","v":null,"s":"$7"}}]]
+e:[["children",{"s":"privacy","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@f","v":"$6","s":"$7"},"c":"$Q10"}]]
+8:[["children",{"s":{"n":"locale","t":"d","k":"en","s":[]},"h":65648,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/warm-hands-preview/_next/static/chunks/36yxbt52bitms.css","precedence":"next"}],["$","script","script-0",{"src":"/warm-hands-preview/_next/static/chunks/0ytncx5a8bnwj.js","async":true}]],["$","html",null,{"lang":"en","className":"sLJoNW_variable","children":["$","body",null,{"className":"flex min-h-screen flex-col","children":[["$","$La",null,{"locale":"en","t":{"menu":"Menu","close":"Close","home":"Home","services":"Services & prices","about":"About","results":"Results","reviews":"Reviews","blog":"Blog","contacts":"Contact","book":"Book","account":"My account","login":"Sign in","language":"Русский","languageShort":"RU"}}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}],["$","footer",null,{"className":"mt-24 border-t border-line","children":["$","div",null,{"className":"container-site grid gap-10 py-12 text-sm sm:grid-cols-3","children":[["$","div",null,{"className":"space-y-2","children":[["$","p",null,{"className":"font-medium uppercase tracking-[0.3em]","children":"Warm Hands"}],["$","p",null,{"className":"text-muted","children":"6 Ordzhonikidze Street 1st Lane, Dilijan 3906, Tavush Province, Armenia"}],["$","p",null,{"className":"text-muted","children":"Mon–Sat, 9:00–19:00"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","a",null,{"href":"tel:+37493581886","className":"block","children":"+374 93 581886"}],["$","div",null,{"className":"flex gap-4 text-muted","children":[["$","a",null,{"href":"https://t.me/+37493581886","className":"hover:text-fg","children":"Telegram"}],["$","a",null,{"href":"https://wa.me/37493581886","className":"hover:text-fg","children":"WhatsApp"}],["$","a",null,{"href":"https://instagram.com/warmhands.pro","className":"hover:text-fg","children":"Instagram"}]]}]]}],["$","div",null,{"className":"space-y-2 text-muted","children":[["$","$Lb",null,{"href":"/en/terms","className":"block hover:text-fg","children":"Terms of service"}],["$","$Lb",null,{"href":"/en/privacy","className":"block hover:text-fg","children":"Privacy policy"}],["$","p",null,{"children":["© ",2026," ","Warm Hands. Massage in Dilijan."]}]]}]]}]}],["$","$Lc",null,{"t":{"text":"This site uses cookies: essential ones for booking and signing in, others only with your consent.","accept":"Accept","necessary":"Essential only"}}]]}]}]]}],"p":"$@d","v":null,"s":"$7"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}],"p":"$@5","v":"$6","s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$18",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Privacy policy — Warm Hands"}],["$","meta","1",{"name":"description","content":"Massage and rehabilitation therapist Gor Hovhannisyan. Deep tissue, classic, therapeutic and face massage in Dilijan, Armenia. More than 12 years and 15,000+ sessions of practice."}],["$","link","2",{"rel":"alternate","hrefLang":"ru","href":"https://nikit357.github.io/warm-hands-preview/ru/"}],["$","link","3",{"rel":"alternate","hrefLang":"en","href":"https://nikit357.github.io/warm-hands-preview/en/"}],["$","meta","4",{"property":"og:title","content":"Privacy policy — Warm Hands"}],["$","meta","5",{"property":"og:description","content":"Massage and rehabilitation therapist Gor Hovhannisyan. Deep tissue, classic, therapeutic and face massage in Dilijan, Armenia. More than 12 years and 15,000+ sessions of practice."}],["$","meta","6",{"property":"og:site_name","content":"Warm Hands"}],["$","meta","7",{"property":"og:locale","content":"en_US"}],["$","meta","8",{"property":"og:image","content":"https://nikit357.github.io/warm-hands-preview/media/home/hero-1068.jpg"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Privacy policy — Warm Hands"}],["$","meta","11",{"name":"twitter:description","content":"Massage and rehabilitation therapist Gor Hovhannisyan. Deep tissue, classic, therapeutic and face massage in Dilijan, Armenia. More than 12 years and 15,000+ sessions of practice."}],["$","meta","12",{"name":"twitter:image","content":"https://nikit357.github.io/warm-hands-preview/media/home/hero-1068.jpg"}],["$","link","13",{"rel":"icon","href":"/warm-hands-preview/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L19","14",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$7"}},"a":"$@1b","u":"$@1c","b":"VhF4PzVtWUnEK3Rgdr6Kv"}
+1d:I[97367,["$2"],"OutletBoundary"]
+12:["$","$L1d",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+7:300
+1e:null
+1c:true
+7:C
+1b:0
+f:"$undefined"
+d:"$undefined"
+5:"$undefined"
+1a:"$undefined"
+13:"$undefined"

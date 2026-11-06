@@ -1,0 +1,101 @@
+1:"$Sreact.fragment"
+2:"/warm-hands-preview/_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+b:I[97367,["$2"],"OutletBoundary"]
+c:"$Sreact.suspense"
+e:"ViewportBoundary"
+f:I[97367,["$2"],"$e"]
+11:"MetadataBoundary"
+12:I[97367,["$2"],"$11"]
+14:I[68027,[],"default",1]
+:HL["/warm-hands-preview/_next/static/chunks/36yxbt52bitms.css","style"]
+:HL["/warm-hands-preview/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/warm-hands-preview/_next/static/media/76b70a1dbe058eb5-s.p.1y4-pdgsjb-pw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+5:X
+9:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$La",null,["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"p":false,"v":null}}]]
+8:[["children",{"s":"terms","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$5"},"c":"$Q9"}]]
+6:[["children",{"s":{"n":"locale","t":"d","k":"ru","s":[]},"h":66064,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/warm-hands-preview/_next/static/chunks/36yxbt52bitms.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/warm-hands-preview/_next/static/chunks/0ytncx5a8bnwj.js","async":true,"nonce":"$undefined"}]],"$L7"]}],"p":false,"v":null},"c":"$Q8"}]]
+0:{"P":null,"c":["","ru","terms",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$5"},"c":"$Q6"},"h":{"r":["$","$1","h",{"children":[null,["$","$Lf",null,{"children":"$L10"}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":"$L13"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$14",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"VhF4PzVtWUnEK3Rgdr6Kv"}
+15:"/warm-hands-preview/_next/static/chunks/0ytncx5a8bnwj.js"
+16:I[2971,["$15"],"Header"]
+17:I[22016,["$15"],""]
+18:I[40244,["$15"],"CookieBanner"]
+5:C
+7:["$","html",null,{"lang":"ru","className":"sLJoNW_variable","children":["$","body",null,{"className":"flex min-h-screen flex-col","children":[["$","$L16",null,{"locale":"ru","t":{"menu":"Меню","close":"Закрыть","home":"Главная","services":"Услуги и цены","about":"О мастере","results":"Результаты","reviews":"Отзывы","blog":"Блог","contacts":"Контакты","book":"Записаться","account":"Кабинет","login":"Войти","language":"English","languageShort":"EN"}}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-24 border-t border-line","children":["$","div",null,{"className":"container-site grid gap-10 py-12 text-sm sm:grid-cols-3","children":[["$","div",null,{"className":"space-y-2","children":[["$","p",null,{"className":"font-medium uppercase tracking-[0.3em]","children":"Warm Hands"}],["$","p",null,{"className":"text-muted","children":"Армения, Тавушская обл., г. Дилижан, 1-й переулок ул. Орджоникидзе, д. 6, 3906"}],["$","p",null,{"className":"text-muted","children":"Пн–Сб, 9:00–19:00"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","a",null,{"href":"tel:+37493581886","className":"block","children":"+374 93 581886"}],["$","div",null,{"className":"flex gap-4 text-muted","children":[["$","a",null,{"href":"https://t.me/+37493581886","className":"hover:text-fg","children":"Telegram"}],["$","a",null,{"href":"https://wa.me/37493581886","className":"hover:text-fg","children":"WhatsApp"}],["$","a",null,{"href":"https://instagram.com/warmhands.pro","className":"hover:text-fg","children":"Instagram"}]]}]]}],["$","div",null,{"className":"space-y-2 text-muted","children":[["$","$L17",null,{"href":"/ru/terms","className":"block hover:text-fg","children":"Условия оказания услуг"}],["$","$L17",null,{"href":"/ru/privacy","className":"block hover:text-fg","children":"Политика конфиденциальности"}],["$","p",null,{"children":["© ",2026," ","Warm Hands. Массаж в Дилижане."]}]]}]]}]}],["$","$L18",null,{"t":{"text":"Сайт использует cookie: необходимые — для записи и входа, остальные — только с вашего согласия.","accept":"Принять","necessary":"Только необходимые"}}]]}]}]
+19:T341a,<h2>1. Стороны и предмет</h2>
+<p>1.1. Исполнитель: Гор Оганнисян, студия массажа Warm Hands. Адрес: Армения, Тавушская обл., г. Дилижан, 1-й переулок ул. Орджоникидзе, д. 6, 3906.</p>
+<p>1.2. Клиент: человек, который записывается на массаж через сайт warm-hands.am, Telegram-бот или напрямую у мастера.</p>
+<p>1.3. Исполнитель проводит сеансы массажа. Массаж в студии не является медицинской услугой. Он не заменяет диагностику и лечение у врача. Мастер не ставит диагнозов и не назначает лечение.</p>
+<p>1.4. Эти условия действуют для каждой записи. Отмечая при записи согласие с условиями, клиент принимает их в редакции, указанной в начале документа.</p>
+<p>1.5. Записаться самостоятельно может человек старше 16 лет. За клиента младше 16 лет записывается и даёт согласие его законный представитель.</p>
+<h2>2. Запись и подтверждение</h2>
+<p>2.1. Записаться можно на сайте, через Telegram-бот или написав мастеру в Telegram или WhatsApp по номеру +374 93 581886.</p>
+<p>2.2. Для записи клиент выбирает услугу и свободное время, указывает имя и номер телефона и отмечает согласие с этими условиями.</p>
+<p>2.3. Запись считается принятой, когда клиент получает подтверждение на сайте, в Telegram или в сообщении от мастера.</p>
+<p>2.4. За день и за час до сеанса клиент получает напоминание. Обычно оно приходит в Telegram.</p>
+<p>2.5. Клиент указывает верные контактные данные. Если номер телефона указан с ошибкой, мастер может не связаться с клиентом при изменениях в расписании.</p>
+<h2>3. Отмена, перенос, опоздание и неявка</h2>
+<p>3.1. Клиент может отменить или перенести запись в личном кабинете или в Telegram-боте не позднее чем за 24 часа до начала сеанса.</p>
+<p>3.2. Менее чем за 24 часа отменить или перенести запись можно только через мастера: по телефону, в Telegram или WhatsApp. Предупредите как можно раньше. Мастер постарается подобрать другое время.</p>
+<p>3.3. Если мастеру нужно отменить или перенести сеанс по своей причине, он сообщает об этом клиенту как можно раньше и предлагает другое время.</p>
+<p>3.4. При опоздании сеанс сокращается на время опоздания, если после него записан другой клиент. Стоимость услуги при этом не меняется. Если время позволяет, мастер проведёт сеанс полностью.</p>
+<p>3.5. Если клиент опаздывает больше чем на 20 минут и не предупредил об этом, мастер может считать запись неявкой.</p>
+<p>3.6. Если опаздывает мастер, сеанс продлевается на это время. Если продлить его нельзя, стоимость уменьшается пропорционально.</p>
+<p>3.7. Неявка без предупреждения не влечёт штрафов. Но если клиент несколько раз не пришёл без предупреждения, мастер может попросить подтверждать следующие записи личным сообщением, внести предоплату или записываться только через мастера, без онлайн-записи.</p>
+<h2>4. Цены и оплата</h2>
+<p>4.1. Цены указаны на сайте в армянских драмах (AMD). Действует цена, указанная на сайте в момент записи.</p>
+<p>4.2. Оплата производится в студии после сеанса. Оплата принимается наличными.</p>
+<p>4.3. Предоплата не требуется, кроме случая из пункта 3.7.</p>
+<p>4.4. Если клиент недоволен сеансом, он может сказать об этом мастеру сразу. Претензии рассматриваются по закону Республики Армения о защите прав потребителей.</p>
+<h2>5. Здоровье и противопоказания</h2>
+<p>5.1. До сеанса клиент сообщает мастеру о состоянии здоровья, которое может повлиять на массаж. В том числе о беременности, недавних операциях и травмах, острых заболеваниях и повышенной температуре, заболеваниях кожи, сердечно-сосудистых заболеваниях, тромбозе, онкологических заболеваниях, а также о приёме лекарств, влияющих на свёртываемость крови.</p>
+<p>5.2. Если клиент сомневается, можно ли ему массаж, ему стоит заранее посоветоваться с врачом.</p>
+<p>5.3. Мастер может изменить технику, сократить сеанс или отказаться от процедуры, если считает, что массаж может навредить. В таком случае клиент платит только за фактически проведённую часть сеанса. Если сеанс не начинался, оплата не взимается.</p>
+<p>5.4. Мастер может отказать в сеансе, если клиент находится в состоянии алкогольного или иного опьянения или ведёт себя грубо.</p>
+<p>5.5. Во время сеанса клиент может в любой момент попросить изменить силу нажима, сделать перерыв или остановить массаж.</p>
+<p>5.6. Если клиент скрыл сведения о здоровье, мастер не отвечает за последствия, которые наступили из-за этого.</p>
+<h2>6. Подарок на день рождения</h2>
+<p>6.1. Клиент получает в подарок дополнительные 30 минут массажа к визиту, если визит приходится на период от 7 дней до дня рождения до 7 дней после него.</p>
+<p>6.2. Подарок действует, если клиент указал дату рождения в личном кабинете и дал согласие на получение сообщений от студии (раздел 9).</p>
+<p>6.3. Подарок предоставляется один раз в год. Он не переносится на другой период, не передаётся другому человеку и не обменивается на деньги или скидку.</p>
+<p>6.4. Мастер может предложить конкретную услугу в подарок, например массаж лица после глубокого массажа тела.</p>
+<h2>7. Ответственность</h2>
+<p>7.1. Мастер проводит сеанс аккуратно, с учётом сведений, которые сообщил клиент, и отвечает за качество услуги по закону Республики Армения.</p>
+<p>7.2. Мастер не отвечает за результат, если клиент не сообщил о противопоказаниях или не выполнил рекомендации, данные во время сеанса.</p>
+<p>7.3. Студия не отвечает за ценные вещи, оставленные без присмотра. Их лучше держать при себе.</p>
+<p>7.4. Эти условия не ограничивают права клиента, которые нельзя ограничить по закону Республики Армения.</p>
+<p>7.5. Споры стороны сначала решают переговорами. Если договориться не удалось, спор рассматривается по законодательству Республики Армения в суде по месту нахождения исполнителя, если закон не даёт клиенту права выбрать другой суд.</p>
+<h2>8. Персональные данные</h2>
+<p>8.1. Порядок обработки персональных данных описан в <a href="/warm-hands-preview/ru/privacy/">политике конфиденциальности</a>.</p>
+<p>8.2. Отмечая согласие с условиями при записи, клиент соглашается на обработку своих персональных данных в целях и в порядке, описанных в политике конфиденциальности, в том числе:</p>
+<ul>
+<li>на обработку сведений о здоровье, которые клиент сообщает сам или которые мастер записывает в заметках после сеанса;</li>
+<li>на передачу данных обработчикам, указанным в политике, включая обработчиков за пределами Армении.</li>
+</ul>
+<p>8.3. Согласие можно отозвать в любой момент. Без обработки имени, телефона и времени записи провести запись нельзя.</p>
+<p>8.4. При записи сохраняются дата и время согласия, редакция условий, IP-адрес и сведения о браузере. Это нужно, чтобы подтвердить, что согласие было дано.</p>
+<h2>9. Сообщения от студии</h2>
+<p>9.1. Помимо напоминаний о записи, студия может присылать:</p>
+<ul>
+<li>поздравление с днём рождения;</li>
+<li>напоминание, если клиент не приходил около 2 месяцев;</li>
+<li>приглашение, если клиент не приходил около 3 месяцев.</li>
+</ul>
+<p>9.2. Такие сообщения отправляются только с отдельного согласия. Оно не обязательно для записи.</p>
+<p>9.3. Отказаться от сообщений можно в личном кабинете или ответив на любое сообщение. Напоминания о самой записи продолжат приходить.</p>
+<h2>10. Изменение условий</h2>
+<p>10.1. Исполнитель может изменить эти условия. Новая редакция публикуется на сайте с новой датой и номером версии.</p>
+<p>10.2. Записи, сделанные до изменения, проводятся по той редакции, которая действовала в момент записи.</p>
+<p>10.3. При следующей записи клиенту предложат ознакомиться с новой редакцией и снова отметить согласие.</p>
+<h2>11. Контакты</h2>
+<p>Гор Оганнисян, студия массажа Warm Hands</p>
+<p>Адрес: Армения, Тавушская обл., г. Дилижан, 1-й переулок ул. Орджоникидзе, д. 6, 3906</p>
+<p>Телефон, Telegram, WhatsApp: +374 93 581886</p>
+<p>Электронная почта: <a href="mailto:hello@warm-hands.am">hello@warm-hands.am</a></p>
+<p>Сайт: warm-hands.am</p>
+a:["$","article",null,{"className":"container-site pt-16","children":[["$","h1",null,{"className":"h-display","children":"Условия оказания услуг"}],["$","p",null,{"className":"mt-4 text-sm text-muted","children":"Редакция от 3 ноября 2026 г. (terms-2026-11-03)"}],["$","div",null,{"className":"prose-site mt-10","dangerouslySetInnerHTML":{"__html":"$19"}}]]}]
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1a:I[27201,["$2"],"IconMark"]
+d:null
+13:[["$","title","0",{"children":"Условия оказания услуг — Warm Hands"}],["$","meta","1",{"name":"description","content":"Массажист-реабилитолог Гор Оганнисян. Глубокотканный, классический, лечебный массаж и массаж лица в Дилижане. Более 12 лет и 15 000+ сеансов практики."}],["$","link","2",{"rel":"alternate","hrefLang":"ru","href":"https://nikit357.github.io/warm-hands-preview/ru/"}],["$","link","3",{"rel":"alternate","hrefLang":"en","href":"https://nikit357.github.io/warm-hands-preview/en/"}],["$","meta","4",{"property":"og:title","content":"Условия оказания услуг — Warm Hands"}],["$","meta","5",{"property":"og:description","content":"Массажист-реабилитолог Гор Оганнисян. Глубокотканный, классический, лечебный массаж и массаж лица в Дилижане. Более 12 лет и 15 000+ сеансов практики."}],["$","meta","6",{"property":"og:site_name","content":"Warm Hands"}],["$","meta","7",{"property":"og:locale","content":"ru_RU"}],["$","meta","8",{"property":"og:image","content":"https://nikit357.github.io/warm-hands-preview/media/home/hero-1068.jpg"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Условия оказания услуг — Warm Hands"}],["$","meta","11",{"name":"twitter:description","content":"Массажист-реабилитолог Гор Оганнисян. Глубокотканный, классический, лечебный массаж и массаж лица в Дилижане. Более 12 лет и 15 000+ сеансов практики."}],["$","meta","12",{"name":"twitter:image","content":"https://nikit357.github.io/warm-hands-preview/media/home/hero-1068.jpg"}],["$","link","13",{"rel":"icon","href":"/warm-hands-preview/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L1a","14",{}]]
