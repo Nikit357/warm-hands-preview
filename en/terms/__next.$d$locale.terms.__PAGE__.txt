@@ -1,0 +1,106 @@
+1:"$Sreact.fragment"
+2:"/warm-hands-preview/_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+9:"/warm-hands-preview/_next/static/chunks/3b7d_jh6r0ftw.js"
+a:I[2971,["$9"],"Header"]
+b:I[22016,["$9"],""]
+c:I[40244,["$9"],"CookieBanner"]
+14:"ViewportBoundary"
+15:I[97367,["$2"],"$14"]
+16:"MetadataBoundary"
+17:I[97367,["$2"],"$16"]
+18:"$Sreact.suspense"
+19:I[27201,["$2"],"IconMark"]
+:HL["/warm-hands-preview/_next/static/chunks/3imam5ggprs4-.css","style"]
+:HL["/warm-hands-preview/media/brand/logo-96.webp","image"]
+6:X
+6:C
+7:X
+11:T1e47,<h2>1. Who we are and what we provide</h2>
+<p>1.1. The service provider is Gor Hovhannisyan, trading as Warm Hands massage studio. Address: 6 Ordzhonikidze Street 1st Lane, Dilijan 3906, Tavush Province, Armenia.</p>
+<p>1.2. &quot;You&quot; means anyone who books a massage through warm-hands.am, our Telegram bot, or directly with the therapist.</p>
+<p>1.3. We provide massage sessions. Massage at the studio is not a medical service. It does not replace diagnosis or treatment by a doctor. The therapist does not diagnose conditions or prescribe treatment.</p>
+<p>1.4. These terms apply to every booking. When you tick the box to accept them, you accept the version shown at the top of this page.</p>
+<p>1.5. You can book on your own if you are 16 or older. For anyone under 16, a parent or legal guardian must make the booking and give consent.</p>
+<h2>2. Booking</h2>
+<p>2.1. You can book on the website, through the Telegram bot, or by messaging the therapist on Telegram or WhatsApp at +374 93 581886.</p>
+<p>2.2. To book, choose a service and a free time slot, enter your name and phone number, and accept these terms.</p>
+<p>2.3. Your booking is confirmed once you see a confirmation on the website, in Telegram, or in a message from the therapist.</p>
+<p>2.4. We send a reminder one day and one hour before your session, usually in Telegram.</p>
+<p>2.5. Please give correct contact details. If your phone number is wrong, we may not be able to reach you if the schedule changes.</p>
+<h2>3. Cancelling, rescheduling, lateness and missed sessions</h2>
+<p>3.1. You can cancel or move a booking in your account or in the Telegram bot up to 24 hours before it starts.</p>
+<p>3.2. Within 24 hours of the session, you can only cancel or move it by contacting the therapist by phone, Telegram or WhatsApp. Please let us know as early as you can, and we will try to find another time.</p>
+<p>3.3. If the therapist has to cancel or move your session, we will tell you as early as possible and offer another time.</p>
+<p>3.4. If you arrive late and another client is booked after you, your session will be shorter by the time you missed. The price stays the same. If the schedule allows, the therapist will give you the full session.</p>
+<p>3.5. If you are more than 20 minutes late without letting us know, the therapist may treat the booking as a missed session.</p>
+<p>3.6. If the therapist starts late, your session will be extended to make up the time. If that is not possible, the price is reduced in proportion.</p>
+<p>3.7. There is no fee for a missed session. If you miss several sessions without notice, we may ask you to confirm future bookings by message, to pay in advance, or to book through the therapist rather than online.</p>
+<h2>4. Prices and payment</h2>
+<p>4.1. Prices are listed on the website in Armenian drams (AMD). The price shown at the time you book is the one that applies.</p>
+<p>4.2. You pay at the studio after the session. Payment is in cash.</p>
+<p>4.3. We do not take prepayment, except in the case described in clause 3.7.</p>
+<p>4.4. If you are unhappy with a session, please tell the therapist straight away. Complaints are handled in line with Armenian consumer protection law.</p>
+<h2>5. Health and contraindications</h2>
+<p>5.1. Before the session, tell the therapist about anything in your health that could affect the massage. This includes pregnancy, recent surgery or injury, acute illness or fever, skin conditions, heart or circulation problems, thrombosis, cancer, and medication that affects blood clotting.</p>
+<p>5.2. If you are not sure whether massage is suitable for you, please ask your doctor before booking.</p>
+<p>5.3. The therapist may adjust the technique, shorten the session or decline to go ahead if massage could do you harm. In that case you pay only for the part of the session that took place. If the session has not started, you pay nothing.</p>
+<p>5.4. The therapist may refuse a session if you are under the influence of alcohol or drugs, or if you behave abusively.</p>
+<p>5.5. During the session you can ask at any time for lighter or firmer pressure, a break, or to stop.</p>
+<p>5.6. The therapist is not responsible for consequences that result from health information you chose not to share.</p>
+<h2>6. Birthday gift</h2>
+<p>6.1. As a birthday gift, you get an extra 30 minutes of massage free of charge on a visit that falls between 7 days before and 7 days after your birthday.</p>
+<p>6.2. To receive the gift, your date of birth must be in your account and you must have agreed to receive messages from the studio (section 9).</p>
+<p>6.3. The gift is available once a year. It cannot be moved to another date, passed to someone else, or exchanged for money or a discount.</p>
+<p>6.4. The therapist may suggest a specific treatment as the gift, for example a face massage after a deep tissue session.</p>
+<h2>7. Liability</h2>
+<p>7.1. The therapist works with care, takes into account what you have told us, and is responsible for the quality of the service under Armenian law.</p>
+<p>7.2. The therapist is not responsible for the outcome if you did not mention a contraindication or did not follow advice given during the session.</p>
+<p>7.3. The studio is not responsible for valuables left unattended. Please keep them with you.</p>
+<p>7.4. Nothing in these terms limits any rights you have that cannot be limited under Armenian law.</p>
+<p>7.5. If a dispute arises, we will first try to settle it by talking. If that fails, it will be decided under the law of the Republic of Armenia by the court where the provider is located, unless the law gives you the right to choose another court.</p>
+<h2>8. Personal data</h2>
+<p>8.1. How we handle your personal data is explained in our <a href="/warm-hands-preview/en/privacy/">privacy policy</a>.</p>
+<p>8.2. By accepting these terms when you book, you agree to the processing of your personal data for the purposes and in the way described in the privacy policy. This includes:</p>
+<ul>
+<li>processing health information that you give us or that the therapist records in notes after a session;</li>
+<li>sharing data with the service providers listed in the policy, including providers outside Armenia.</li>
+</ul>
+<p>8.3. You can withdraw your consent at any time. We cannot take a booking without your name, phone number and the booking time.</p>
+<p>8.4. When you book, we record the date and time of your consent, the version of these terms, your IP address and browser details. We keep this as proof that consent was given.</p>
+<h2>9. Messages from the studio</h2>
+<p>9.1. Apart from booking reminders, the studio may send you:</p>
+<ul>
+<li>birthday greetings;</li>
+<li>a reminder if you have not visited for about 2 months;</li>
+<li>an invitation if you have not visited for about 3 months.</li>
+</ul>
+<p>9.2. We only send these messages if you give separate consent. You do not need to give it to make a booking.</p>
+<p>9.3. You can stop these messages in your account or by replying to any of them. You will still receive reminders about your bookings.</p>
+<h2>10. Changes to these terms</h2>
+<p>10.1. We may change these terms. Each new version is published on the website with a new date and version number.</p>
+<p>10.2. Bookings made before a change follow the version that applied when you booked.</p>
+<p>10.3. The next time you book, we will show you the new version and ask you to accept it again.</p>
+<h2>11. Contact</h2>
+<p>Gor Hovhannisyan, Warm Hands massage studio</p>
+<p>Address: 6 Ordzhonikidze Street 1st Lane, Dilijan 3906, Tavush Province, Armenia</p>
+<p>Phone, Telegram, WhatsApp: +374 93 581886</p>
+<p>Email: <a href="mailto:hello@warm-hands.am">hello@warm-hands.am</a></p>
+<p>Website: warm-hands.am</p>
+10:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","article",null,{"className":"container-site pt-16","children":[["$","h1",null,{"className":"h-display","children":"Terms of service"}],["$","p",null,{"className":"mt-4 text-sm text-muted","children":"Version of 3 November 2026 (terms-2026-11-03)"}],["$","div",null,{"className":"prose-site mt-10","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],null,"$L12"]}],"p":"$@13","v":null,"s":"$7"}}]]
+e:[["children",{"s":"terms","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@f","v":"$6","s":"$7"},"c":"$Q10"}]]
+8:[["children",{"s":{"n":"locale","t":"d","k":"en","s":[]},"h":65648,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/warm-hands-preview/_next/static/chunks/3imam5ggprs4-.css","precedence":"next"}],["$","script","script-0",{"src":"/warm-hands-preview/_next/static/chunks/3b7d_jh6r0ftw.js","async":true}]],["$","html",null,{"lang":"en","className":"sLJoNW_variable","children":["$","body",null,{"className":"flex min-h-screen flex-col","children":[["$","$La",null,{"locale":"en","t":{"menu":"Menu","close":"Close","home":"Home","services":"Services & prices","about":"About","results":"Results","reviews":"Reviews","blog":"Blog","contacts":"Contact","book":"Book","account":"My account","login":"Sign in","language":"Русский","languageShort":"RU","friends":"Friends"}}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}],["$","footer",null,{"className":"mt-24 border-t border-line","children":["$","div",null,{"className":"container-site grid gap-10 py-12 text-sm sm:grid-cols-3","children":[["$","div",null,{"className":"space-y-2","children":[["$","p",null,{"className":"flex items-center gap-3 font-medium uppercase tracking-[0.3em]","children":[["$","img",null,{"src":"/warm-hands-preview/media/brand/logo-96.webp","alt":"","width":48,"height":48,"className":"h-12 w-12 rounded-full"}],"Warm Hands"]}],["$","p",null,{"className":"text-muted","children":"6 Ordzhonikidze Street 1st Lane, Dilijan 3906, Tavush Province, Armenia"}],["$","p",null,{"className":"text-muted","children":"Mon–Sat, 9:00–21:00"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","a",null,{"href":"tel:+37493581886","className":"block","children":"+374 93 581886"}],["$","div",null,{"className":"flex gap-4 text-muted","children":[["$","a",null,{"href":"https://t.me/+37493581886","className":"hover:text-fg","children":"Telegram"}],["$","a",null,{"href":"https://wa.me/37493581886","className":"hover:text-fg","children":"WhatsApp"}],["$","a",null,{"href":"https://instagram.com/warmhands.pro","className":"hover:text-fg","children":"Instagram"}],["$","a",null,{"href":"https://www.youtube.com/@gor_hovhannisyan","className":"hover:text-fg","children":"YouTube"}]]}]]}],["$","div",null,{"className":"space-y-2 text-muted","children":[["$","$Lb",null,{"href":"/en/terms","className":"block hover:text-fg","children":"Terms of service"}],["$","$Lb",null,{"href":"/en/privacy","className":"block hover:text-fg","children":"Privacy policy"}],["$","p",null,{"children":["© ",2026," ","Warm Hands. Massage in Dilijan."]}]]}]]}]}],["$","$Lc",null,{"t":{"text":"This site uses cookies: essential ones for booking and signing in, others only with your consent.","accept":"Accept","necessary":"Essential only"}}]]}]}]]}],"p":"$@d","v":null,"s":"$7"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}],"p":"$@5","v":"$6","s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$18",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Terms of service — Warm Hands"}],["$","meta","1",{"name":"description","content":"Massage and rehabilitation therapist Gor Hovhannisyan. Deep tissue, classic, back, neck and face massage in Dilijan, Armenia. More than 14 years and 15,000+ sessions of practice."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://nikit357.github.io/warm-hands-preview/en/terms/"}],["$","link","4",{"rel":"alternate","hrefLang":"ru","href":"https://nikit357.github.io/warm-hands-preview/ru/terms/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://nikit357.github.io/warm-hands-preview/en/terms/"}],["$","link","6",{"rel":"alternate","hrefLang":"x-default","href":"https://nikit357.github.io/warm-hands-preview/ru/terms/"}],["$","meta","7",{"property":"og:title","content":"Terms of service — Warm Hands"}],["$","meta","8",{"property":"og:description","content":"Massage and rehabilitation therapist Gor Hovhannisyan. Deep tissue, classic, back, neck and face massage in Dilijan, Armenia. More than 14 years and 15,000+ sessions of practice."}],["$","meta","9",{"property":"og:site_name","content":"Warm Hands"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://nikit357.github.io/warm-hands-preview/media/home/hero-1068.jpg"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Terms of service — Warm Hands"}],["$","meta","14",{"name":"twitter:description","content":"Massage and rehabilitation therapist Gor Hovhannisyan. Deep tissue, classic, back, neck and face massage in Dilijan, Armenia. More than 14 years and 15,000+ sessions of practice."}],["$","meta","15",{"name":"twitter:image","content":"https://nikit357.github.io/warm-hands-preview/media/home/hero-1068.jpg"}],["$","link","16",{"rel":"icon","href":"/warm-hands-preview/icon.png?icon.2fd_-edyiqpe9.png","sizes":"512x512","type":"image/png"}],["$","link","17",{"rel":"apple-touch-icon","href":"/warm-hands-preview/apple-icon.png?apple-icon.0h_b4z735a9jb.png","sizes":"180x180","type":"image/png"}],["$","$L19","18",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$7"}},"a":"$@1b","u":"$@1c","b":"pA4YHIvkDmDLtrdMsodrK"}
+1d:I[97367,["$2"],"OutletBoundary"]
+12:["$","$L1d",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+7:300
+1e:null
+1c:true
+7:C
+1b:0
+f:"$undefined"
+d:"$undefined"
+5:"$undefined"
+1a:"$undefined"
+13:"$undefined"

@@ -1,0 +1,7 @@
+:HL["/warm-hands-preview/_next/static/chunks/3imam5ggprs4-.css","style"]
+:HL["/warm-hands-preview/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/warm-hands-preview/_next/static/media/76b70a1dbe058eb5-s.p.1y4-pdgsjb-pw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/warm-hands-preview/media/brand/logo-96.webp","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"ru","s":[]},"h":65648,"c":"$Q2"}]]
+0:{"b":"pA4YHIvkDmDLtrdMsodrK","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
